@@ -5,7 +5,9 @@ dong1
 
 dong2.1		//Tanh sua
 dong3.1		//Tanh sua
-dong4.1		//Minh sua
-dong5.1		//Minh sua
+
+dong4.x.x
+dong5.x.x
+
 
 dong6
